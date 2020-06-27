@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    background-color:plum ;
+    color: black;
+}
+
+.main {
+    border: 2px solid gray;
+    width: 172px;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 5px;
+}
+.result {
+    width: 96%;
+    background-color:white;
+    color: black;
+}
+.clearbtn {
+    width: 48.5%;
+    margin-top: 10px;
+    background-color: green;
+}
+.btn {
+    margin: 1px;
+    width: 22%;
+    background-color: white;
+}
+.halfbtn {
+    background-color:red;
+    width: 83px;
+    margin-top: 1px;
+}
